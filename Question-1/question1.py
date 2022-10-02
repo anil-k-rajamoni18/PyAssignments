@@ -3,7 +3,7 @@ output_filename = "Student_details.txt"
 ID = "CS638AS"
 #reading the input file
 with open(input_filename,mode="r") as f1:
-    inpData = f1.read().split("\n")
+    inpData = f1.read().splitlines()
     filteredData=[]
 
     #filtering only needed lines
