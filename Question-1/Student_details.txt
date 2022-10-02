@@ -1,0 +1,24 @@
+ID 				 NAME
+
+CS638AS1 			 Charan Allaparthi
+CS638AS2 			 Chihnitha Anne
+CS638AS3 			 Nethree Sree Busa
+CS638AS4 			 Samba Chennamsetty
+CS638AS5 			 Nishitha Reddy Dharpally
+CS638AS6 			 Vamsi Kiran Kakkera
+CS638AS7 			 Shashank Karne
+CS638AS8 			 Alex Meajuri
+CS638AS9 			 Preetham Reddy Nevuri
+CS638AS10 			 Gopinath Ogiboyina
+CS638AS11 			 Bharath Parupalli
+CS638AS12 			 Abhinay Reddy Pasham
+CS638AS13 			 Shashipreetham Pavushetty
+CS638AS14 			 Sai Hrithik Peddi
+CS638AS15 			 Rahul Perwala
+CS638AS16 			 Dhanusha Prathipati
+CS638AS17 			 Ganesh Sai Charan Sana
+CS638AS18 			 Arif Shaik
+CS638AS19 			 Upendra Kumar Vadlamudi
+CS638AS20 			 Jagadishwar Reddy Velma
+CS638AS21 			 Nithin Reddy Yanala
+CS638AS22 			 Vamshi Yelluri
